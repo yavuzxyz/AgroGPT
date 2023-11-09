@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOv8/Snail/images/train
+val: /content/drive/MyDrive/YOLOv8/Snail/images/val
+test: /content/drive/MyDrive/YOLOv8/Snail/images/test
+nc: 1
+names: ["Snail"]

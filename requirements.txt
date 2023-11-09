@@ -1,0 +1,5 @@
+opencv-python==4.5.*
+torch==1.11.*
+numpy==1.22.*
+ultralytics==6.1.*
+openai==0.20.*
